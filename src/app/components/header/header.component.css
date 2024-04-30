@@ -1,0 +1,27 @@
+
+
+.bg-\[\#005883\] {
+  --tw-bg-opacity: 1;
+  background-color: rgb(0 88 131 / var(--tw-bg-opacity));
+}
+
+.overflow-hidden {
+  overflow: hidden;
+}
+
+.justify-around {
+  justify-content: space-around;
+}
+
+.items-center {
+  align-items: center;
+}
+.flex-row {
+  flex-direction: row;
+}
+.flex {
+  display: flex;
+}
+.relative {
+  position: relative;
+}
